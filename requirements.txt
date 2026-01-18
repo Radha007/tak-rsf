@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy
+matplotlib
+scikit-learn
+scikit-survival
+lifelines
